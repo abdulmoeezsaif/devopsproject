@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/devopsproject/static/js/main.5d9caaa8.js",
+    "index.html": "/devopsproject/index.html",
+    "main.5d9caaa8.js.map": "/devopsproject/static/js/main.5d9caaa8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5d9caaa8.js"
+  ]
+}
