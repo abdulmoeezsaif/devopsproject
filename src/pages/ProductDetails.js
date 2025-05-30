@@ -99,7 +99,7 @@ const ProductDetails = ({ onAddToCart }) => {
               onClick={() => onAddToCart(product)}
               sx={{ width: '100%', maxWidth: '400px' }}
             >
-              Add to Cart
+              Add to bucket 
             </Button>
           </Box>
         </Grid>
